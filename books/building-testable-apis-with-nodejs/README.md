@@ -1,4 +1,4 @@
-# 📘 Study: Building Testable APIs with Node.js
+# 📘 Building Testable APIs with Node.js
 
 ## 📌 About the Project
 This project is a comprehensive technical study based on the book **"Building Testable APIs with Node.js"**. 
