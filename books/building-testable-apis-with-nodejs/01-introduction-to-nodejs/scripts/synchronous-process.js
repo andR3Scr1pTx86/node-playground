@@ -4,7 +4,7 @@ let fileContent
 const someMath = 1 + 1
 
 try {
-    fileContent = fs.readFileSync('test.txt', 'utf-8');
+    fileContent = fs.readFileSync('zbig-file.txt', 'utf-8');
     console.log('file has been read');
 } catch (error) {
     console.log(err)
