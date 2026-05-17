@@ -53,3 +53,25 @@ Enables actions that are independent of each other to be unblocked:
 ---
 
 ### Event Loop
+
+> Node.js is an event-driven language.
+
+In short, the Node.js event loop is a control flow determined by events or state changes. Most implementations have a core that listens to all events and calls their respective callbacks when they are triggered (or have their state changed).
+
+**Keywords:** `Event Driven`
+
+--- 
+
+### Call Stack
+
+Whenever a function is executed, it enters the stack, which executes only one thing at a time. This means that any code following the one currently running must wait for the current function to finish executing before moving forward.
+
+> Call Stack implementation: [call-stack.js](./scripts/call-stack.js)
+
+<img src="images/call-stack-script-flow.png" alt="Call Stack Script flow Image" width="100%" height="600">
+
+    Understanding how the stack works, it can be concluded that functions requiring a lot of execution time will occupy the stack longer, thus blocking subsequent lines from being called.
+
+---
+
+### Multithreading
