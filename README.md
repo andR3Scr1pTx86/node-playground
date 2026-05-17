@@ -24,7 +24,7 @@ This repo is a flexible, ever-evolving laboratory designed to take my skills to 
 
 | Title | Description | Status |
 | :--- | :---: | :---: |
-| **[Building Testable APIs with Node.js](./books/building-testable-apis-with-nodejs/README.md)** | Following development and quality best practices, building robust and resilient test-driven applications. | ⏳ In Progress |
+| **[Building Testable APIs with Node.js](./books/building-testable-apis-with-nodejs)** | Following development and quality best practices, building robust and resilient test-driven applications. | ⏳ In Progress |
 
 
 ### 🧠 Core
